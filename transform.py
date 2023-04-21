@@ -58,4 +58,4 @@ percentage_filled = 1 - (days_left / 365)
 
 # Create and save the profile picture
 image = create_profile_picture(percentage_filled, 'bobba.jpg')
-image.save('profile_picture2.png')
+image.save('profile_picture1.png')
